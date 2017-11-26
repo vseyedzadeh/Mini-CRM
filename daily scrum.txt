@@ -1,0 +1,173 @@
+Every day both team members write the following:
+
+date and name
+1. what have i done / not done sincce last scrum?
+2. what will i do from now until next scrum?
+3. where do i need help from my teammate, teacher, or internet?
+ex:
+2017/10/03 nanme
+1. i implemented x and didnt implement t
+2. i will implement abc and kkkkk
+
+2017/10/04 Winoto
+
+1. implemented UI login windows, hid x button, solved cancel button (show main window)
+2. Completed with UI address book
+3. UI Search/query to be continued, missing custom query
+4. Will populate database
+5. Will search about closing second window will close main window
+6. Create at least 6 user stories in trello and break them in todo items
+
+2017/10/04 Vaji
+
+1.made some changes to proposal, compeleted mokup for proposal
+2.i will Create at least 6 user stories in trello and break them in todo items
+3.i will implement UI for opportunities
+4.i will implement UI for adding new customer and edit current customer
+5.I will search about login service
+
+
+2017/10/05 Vaji
+
+1.I compeleted the UI for addNewCustomer and redesign UI for opportunities
+2.I serached about the service login and added class for login
+3.i will fix problem for login
+4.i will make query to add Newcustomer to database
+5.i will work on page workday
+
+
+2017/10/05 Winoto
+1. Completed load address book
+2. Completed setup DB and populate
+3. Will continue populate detail for each customer
+4. Will create edit Customer
+
+2017/10/06 Winoto
+1. Solved refresh frame and null data from sql
+2. Had problem with github, some of jobs from yesterday at school are gone
+3. Will continue number 3&4 above
+4. Vaji pls merge from my temporary folder into your code and push it so i can have the fresh one
+5. Work on Detail and edit CTRl and model, view need to be redone
+
+2017/10/06 Vaji
+1. Chaned Desing of main page, login and address book , opportunities
+2. I worke on show user name in main page after login + data and time
+3. I will change the queries for opportunities to show the specific customer for every user Id
+4. I will research about the schedule and calendar
+
+
+2017/10-08  Winoto
+1. Added working send email
+2. Edit details: clr and model are done
+3. Started to work on adding schedule (model and clr)
+4. will continue on schedule (model)
+5. Will do query
+
+
+2017/10/10  Winoto
+1. what have i done / not done sincce last scrum?
+* Completed send email and show in messages
+2. what will i do from now until next scrum?
+* Try to sort on the column
+* will do sales in address book
+3. where do i need help from my teammate, teacher, or internet?
+* search company wont show in window (frame not refreshing?)
+
+2017/10/10 Vaji
+
+1. what have i done / not done sincce last scrum?
+*I made a mini project to work on export to excel and print to pdf 
+*I fix the error in page login
+*I searched about the control to make schedule
+*I changed the queries for page opportunities
+2. what will i do from now until next scrum?
+*I will serached about print to pdf
+*I will make UI for reports and make at least one report
+*I will add export to excel to project
+*I will add print to pdf to project
+*I will start working on page calendar
+3. where do i need help from my teammate, teacher, or internet?
+*search about how to add export to excel and print to pdf
+
+2017/10/11 Vaji
+1. what have i done / not done sincce last scrum?
+*I added export to excel and print to pdf
+*I made a UI for reports list and made one report
+*I made UI for calendar and UI for making appointment
+*I complete the query to search the company name
+
+2. what will i do from now until next scrum?
+*I will complete page calendar to make appointment and show work day for every user
+*I will make a page to edit work day and appointment by user
+
+3. where do i need help from my teammate, teacher, or internet?
+*how can I use time picker
+
+
+
+2017/10/11 Winoto
+1.Done/not done
+* sort column address book and query result done
+* display the result in the frame done
+* Sales in address book is not done
+2. will do? 
+* Continue query sales
+* add UI and code for adding messages manually
+3. Help?
+* Found in internet about passing parameter to display frame  
+
+
+2017/10/12 Winoto
+1.Done/not done
+* Query Sales per customer ytd y-1 and y-2 done
+* add UI and code for adding messages manually done
+* Refactored Address book and Result query done
+2. will do? 
+* Add label for displaying address book and result (total record)
+* Create report sales per sales rep
+* Create graph for sales rep sales?
+  
+=======
+2017/10/12 Vaji
+1. what have i done / not done sincce last scrum?
+*I completed UI for calendar to show all apointment of logined user 
+*I completed page making new appointment and Also edit appointment
+*I searched about how i can add timepicker by wpf toolkit
+2. what will i do from now until next scrum?
+*I will change the query of edit appointment to save data in to table message history in case of change the status of appointment
+*I will work on seperate the meetings of day(Today) by color
+*I will search on how I can add meetings in the calendar
+3. where do i need help from my teammate, teacher, or internet?
+*show meetings in calendar
+
+
+2017/10/13 Winoto
+1. what have i done / not done sincce last scrum?
+* label done
+* report, query is done
+* graph, need to push it to key value
+2. what will i do until next scrum?
+* continue on graph.
+* work on validation
+3. Where do i need help?
+* How to insert data in key-value
+
+2017/10/13 Vaji
+1. what have i done / not done sincce last scrum?
+*I completed edit appointment to save appointments in customer's history
+*I made some changes to table schedule and appointment page and query
+2. what will i do from now until next scrum?
+* I will make some changes on page opportunities
+* I will change the background color for appointment dates on calendar
+3. Where do i need help?
+*how to change background color of special day on calendar
+
+2017/10/15
+1. what have i done / not done sincce last scrum?
+* Graph done
+* change validation to client side (with binding), done
+2. what will i do until next scrum?
+* change the validation in edit customer
+* cleanup some code
+3. Where do i need help?
+* Binding the textbox, radio button
